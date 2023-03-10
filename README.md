@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Demo app - Caloric demanc calculator API created by Piotr Elmanowski in [Nest](https://github.com/nestjs/nest) framework.
 
 ## Installation
 
